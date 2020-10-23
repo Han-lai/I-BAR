@@ -10,6 +10,6 @@
 ![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/cocktail_demo.gif?raw=true)
 
 ### Whisky
-![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/%E5%A8%81%E5%A3%AB%E5%BF%8C%E6%8E%A8%E8%96%A6.GIF?raw=true)
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/whisky.gif?raw=true)
 
 
