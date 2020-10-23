@@ -6,8 +6,9 @@
 
 ## Project  Process
 
-| ![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/process.png?raw=true) |
-
+| I-BAR         |    Process    |
+| ------------- |:-------------:|
+|![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/I-BAR.png?raw=true)  |![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/process.png?raw=true) |
 ## Demo - recommendation of cocktail and whisky
 ###### Use Line chatbot can recommend user's favorite cocktail or whisky with flavor labels 
 
