@@ -61,8 +61,13 @@ Use the TF-IDF algorithm to find the TF-IDF value of the flavor label in all rev
 PCA can be used to map data to a lower dimensional space while minimizing information loss. It's useful for data visualization, where you're limited to 2-D and 3-D plots
 
 ## Process - K-means
-![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/KMEANS%20-GIF.gif?raw=true)
+In unsupervised clustering algorithm,I use Calinski-Harabasz Index to evaluate how many cluster need to be divided.And the result show that the best model were  divided to seven group.
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/Calinski-Harabasz%20Index.png?raw=true)
+
 Use the k-means algorithm to perform unsupervised clustering of the data after pca dimensionality reduction to find the cocktails with the most similar flavor characteristics. The results show that a total of seven groups can be clearly divided.
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/KMEANS%20-GIF.gif?raw=true)
+
+
 we define the name of each cluster.
 1. Mellow cocktails.
 2. Classic cocktails.
