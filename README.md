@@ -43,18 +43,18 @@ I got the data from four website,Almost the cocktail recipes is scraped from Dif
 |kindred cocktails |[kindred cocktails](https://kindredcocktails.com/).
 
 ## Process - Natural Language Processing (NLP)
-[image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/spacy.PNG?raw=true) 
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/spacy.PNG?raw=true) 
 spaCy is my go-to library for Natural Language Processing (NLP) tasks. I’d venture to say that’s the case for the majority of NLP experts out there! You can learn more from this [article](https://hanjobs-com.webnode.tw/l/spacy/).
 
 
 ## Process - TF-IDF
-[image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/TF-IDF.png?raw=true) 
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/TF-IDF.png?raw=true) 
 TF-IDF is an algorithm applied over a set of documents, for document summarization, I considered every sentence as a separate sentence and the sentences with the highest TF-IDF score are the most informative one.
 Use the TF-IDF algorithm to find the TF-IDF value of the flavor label in all reviews of each cocktail as a feature of each cocktail.
 
 
 ## Process - PCA
-[image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/pca.png?raw=true) 
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/pca.png?raw=true) 
 PCA can be used to map data to a lower dimensional space while minimizing information loss. It's useful for data visualization, where you're limited to 2-D and 3-D plots
 ##
 
