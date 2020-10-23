@@ -6,10 +6,17 @@
 ## Demo - recommendation of cocktail and whisky
 ###### Use Line chatbot can recommend user's favorite cocktail or whisky with flavor labels 
 
-### Cocktail
-![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/cocktail_demo.gif?raw=true)
+| Cocktail      | Whisky        |
+| ------------- |:-------------:|
+|![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/cocktail_demo.gif?raw=true)      |![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/whisky.gif?raw=true)   |
 
-### Whisky
-![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/whisky.gif?raw=true)
+
+
+## Project  Process
+
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/process.png?raw=true)
+
+
+
 
 
