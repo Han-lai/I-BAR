@@ -62,6 +62,7 @@ PCA can be used to map data to a lower dimensional space while minimizing inform
 
 ## Process - K-means
 In unsupervised clustering algorithm,I use Calinski-Harabasz Index to evaluate how many cluster need to be divided.And the result show that the best model were  divided to seven group.
+
 ![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/Calinski-Harabasz%20Index.png?raw=true)
 
 Use the k-means algorithm to perform unsupervised clustering of the data after pca dimensionality reduction to find the cocktails with the most similar flavor characteristics. The results show that a total of seven groups can be clearly divided.
