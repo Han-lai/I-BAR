@@ -49,14 +49,31 @@ spaCy is my go-to library for Natural Language Processing (NLP) tasks. I’d ven
 
 ## Process - TF-IDF
 ![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/TF-IDF.png?raw=true) 
+
+
 TF-IDF is an algorithm applied over a set of documents, for document summarization, I considered every sentence as a separate sentence and the sentences with the highest TF-IDF score are the most informative one.
 Use the TF-IDF algorithm to find the TF-IDF value of the flavor label in all reviews of each cocktail as a feature of each cocktail.
 
 
 ## Process - PCA
 ![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/pca.png?raw=true) 
+
 PCA can be used to map data to a lower dimensional space while minimizing information loss. It's useful for data visualization, where you're limited to 2-D and 3-D plots
-##
+
+## Process - K-means
+![image](https://github.com/Han-lai/I-BAR/blob/master/01%20demo%E5%9C%96%E6%AA%94/KMEANS%20-GIF.gif?raw=true)
+Use the k-means algorithm to perform unsupervised clustering of the data after pca dimensionality reduction to find the cocktails with the most similar flavor characteristics. The results show that a total of seven groups can be clearly divided.
+we define the name of each cluster.
+1. Mellow cocktails.
+2. Classic cocktails.
+3. Strong flavor cocktails.
+4. Refreshing cocktails.
+5. A bit sour and sweet cocktails.
+6. light flavor cocktails.
+7. bittersweet flavor like herbal cocktails.
+
+
+
 
 
 
